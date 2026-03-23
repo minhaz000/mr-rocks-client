@@ -13,8 +13,6 @@ An e-learning platform where users can enroll and purchase courses.
 ---
 
 ## Technologies
-React.js, Node.js, MongoDB, Firebase, Tailwind CSS, JWT*** has better UX for ruthing 
-*** better redirecton 
-*** Single page aflicaton 
+React.js, Node.js, MongoDB, Firebase, Tailwind CSS, JWT
 
 
