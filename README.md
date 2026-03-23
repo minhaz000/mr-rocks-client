@@ -1,23 +1,19 @@
-==========================  Welcome To MR Rocks ==============================================================
+# MR Rocks (Online Learning Platform)
 
+An e-learning platform where users can enroll and purchase courses.
 
-**Site Name : MR Rocks**
+---
 
+## Key Features
+- Secure user authentication with Firebase  
+- Protected checkout system (login required)  
+- Implemented JWT-based authorization for user data security  
+- Created dynamic course enrollment system  
 
-Despriction : A Digital Online Learning Platform . This Platform You Will Get Advanced Course Focuses On Topics Like Redis For Caching, Worker Threads And Clustering, And Integrating Image Uploads Using Node And S3! Students Will Also Learn About Event Loop Steps And How To Use AWS S3 To Implement Scalable Uploads
+---
 
-**======================================================**
-
-**  features and functionality**
-
-**======================================================**
-
-*** unique desing 
-*** login system with firebase 
-*** 3 type of loin sstem 
-*** own dedicated node backend  
-*** Email + Google + GitHub athuntication system 
-*** has better UX for ruthing 
+## Technologies
+React.js, Node.js, MongoDB, Firebase, Tailwind CSS, JWT*** has better UX for ruthing 
 *** better redirecton 
 *** Single page aflicaton 
 
