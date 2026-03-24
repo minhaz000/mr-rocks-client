@@ -2,12 +2,15 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey:process.env.REACT_APP_apiKey ,
-  authDomain:process.env.REACT_APP_authDomain ,
-  projectId: process.env.REACT_APP_projectId,
-  storageBucket:process.env.REACT_APP_storageBucket,
-  messagingSenderId:process.env.REACT_APP_messagingSenderId,
-  appId:process.env.REACT_APP_appId
+   apiKey: "AIzaSyAVMOXOOmwsbdVLLIL11z8qfMyDGnX1vlI",
+  authDomain: "best-resume-project.firebaseapp.com",
+  projectId: "best-resume-project",
+  storageBucket: "best-resume-project.firebasestorage.app",
+  messagingSenderId: "799350772332",
+  appId: "1:799350772332:web:8baa980970d1654b39fe49",
+  measurementId: "G-Q9P59BPQFC"
+  
+  
 };
 
 
