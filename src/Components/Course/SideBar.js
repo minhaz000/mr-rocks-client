@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 function SideBar(props) {
 const [data , setData] = useState([])    
-const url = "https://mr-rocks-server.vercel.app/"
+const url = "https://mr-rocks-server.vercel.app"
     useEffect(()=>{ 
         axios.get(url).then(response=>{ setData(response.data)})
 
