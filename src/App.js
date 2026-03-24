@@ -15,7 +15,7 @@ import PrivateRoute from './privateRoute/PrivateRoute'
 import  { Toaster } from 'react-hot-toast';
 
 function App(props) {
-const url = "https://mr-rocks-server.vercel.app/"
+const url = "https://mr-rocks-server.vercel.app"
   const router =  createBrowserRouter([
     {
       path: "/",
